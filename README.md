@@ -5,6 +5,11 @@ There are only two things you should know about this repository...
 * It was never meant to be public and thus was coded absolutely atrociously.
 * It predates bootstrap :)
 
+# Remake
+
+You might want to also look at the following remake attempt for these tools: https://github.com/nfreader/newSS13tools
+At the time of writing, not all tools have been recreated though.
+
 # Included tools
 - Ban overview page
 - Connection lookup (aka "How much time have I wasted")
